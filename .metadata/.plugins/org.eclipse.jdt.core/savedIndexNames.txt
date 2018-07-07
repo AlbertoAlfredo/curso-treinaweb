@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/alberto/eclipse-workspace/cursos/treinaweb/.metadata/.plugins/org.eclipse.jdt.core
+3927879410.index
+646308851.index
